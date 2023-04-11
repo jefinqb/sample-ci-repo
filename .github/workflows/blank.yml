@@ -34,3 +34,9 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          java --version
+          pwd
+          ls
+          gradle --version
+          node -v
+          mvn --version
