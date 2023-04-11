@@ -43,4 +43,4 @@ jobs:
           docker version
           docker ps
           ifconfig
-          docker pull jenkins/jenkins:lts
+          docker images
