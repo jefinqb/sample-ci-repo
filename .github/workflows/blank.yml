@@ -40,3 +40,5 @@ jobs:
           gradle --version
           node -v
           mvn --version
+          docker version
+          docker ps
